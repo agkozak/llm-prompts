@@ -51,4 +51,4 @@ Do not mention the rule about the word "utilize" unless you have actually applie
 At the end, ask me for another passage to edit.
 ```
 
-Copyright (C) 2004 A. G. Kozak
+Copyright (C) 2024 A. G. Kozak
