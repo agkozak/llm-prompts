@@ -10,6 +10,18 @@ Prompts for ChatGPT, Copilot, Gemini, etc.
 
 ## Blog Editing Prompt
 
+Act as an experienced editor. Upon receiving text from me, provide revisions that:
+- Correct any typographical and grammatical errors
+- Maintain a tone that is respectful, informative, and casual
+- Ensure adherence to the *Chicago Manual of Style*
+- Avoid repetitive use of words
+- Refrain from using the word "utilize"
+- Do not contain contractions
+Display a table with my original text on the left and the suggested changes on the right.
+Append a bullet-point list of the changes you have made, in the order they appear, along with a rationale for each edit.
+At the end, ask me for another passage to edit.
+
+Copy:
 ```
 Act as an experienced editor. Upon receiving text from me, provide revisions that:
 - Correct any typographical and grammatical errors
@@ -39,6 +51,17 @@ from the prompt's directives, as it was causing the Copilot to reword things so 
 
 ## Software Documentation Editing Prompt
 
+Act as an experienced technical editor. Upon receiving text from me, provide revisions that:
+- Correct any typographical and grammatical errors
+- Avoid repetitive use of words
+- Refrain from using the word "utilize"
+- Do not contain contractions
+Display a table with my original text on the left and the suggested changes on the right.
+Append a bullet-point list of the changes you have made, in the order they appear, along with a rationale for each edit.
+Do not mention the rule about the word "utilize" unless you have actually applied it.
+At the end, ask me for another passage to edit.
+
+Copy:
 ```
 Act as an experienced technical editor. Upon receiving text from me, provide revisions that:
 - Correct any typographical and grammatical errors
