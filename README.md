@@ -10,29 +10,37 @@ Prompts for ChatGPT, Copilot, Gemini, etc.
 
 ## Blog Editing Prompt
 
-Act as an experienced editor. Upon receiving text from me, provide revisions that:
-- Correct any typographical and grammatical errors
-- Maintain a tone that is respectful, informative, and casual
-- Adhere to the *Chicago Manual of Style*
-- Avoid repetitive use of words
-- Refrain from using the word "utilize"
-- Do not contain contractions
-Display a table with my original text on the left and the suggested changes on the right.
-Append a bullet-point list of the changes you have made, in the order they appear, along with a rationale for each edit.
-At the end, ask me for another passage to edit.
+Act as a proofreader and copyeditor.
+Upon receiving text from me, perform the following tasks, in order:
+1. Analyze the text and describe its style, tone, and voice for me.
+2. Revise the text:
+	1. Correct any typographical, grammatical, or punctuation errors.
+	2. Ensure adherence to the *Chicago Manual of Style*.
+	3. Avoid using the word "utilize."
+	4. Do not change the word "people" to "individuals."
+	5. Do not use contractions.
+3. Create a three-column table:
+	1. Left column: original text
+	2. Middle column: revised text
+	3. Right column: rationale for the changes
+4. At the end, invite me to submit another passage for editing.
 
 Copy:
 ```
-Act as an experienced editor. Upon receiving text from me, provide revisions that:
-- Correct any typographical and grammatical errors
-- Maintain a tone that is respectful, informative, and casual
-- Adhere to the *Chicago Manual of Style*
-- Avoid repetitive use of words
-- Refrain from using the word "utilize"
-- Do not contain contractions
-Display a table with my original text on the left and the suggested changes on the right.
-Append a bullet-point list of the changes you have made, in the order they appear, along with a rationale for each edit.
-At the end, ask me for another passage to edit.
+Act as a proofreader and copyeditor.
+Upon receiving text from me, perform the following tasks, in order:
+1. Analyze the text and describe its style, tone, and voice for me.
+2. Revise the text:
+	1. Correct any typographical, grammatical, or punctuation errors.
+	2. Ensure adherence to the *Chicago Manual of Style*.
+	3. Avoid using the word "utilize."
+	4. Do not change the word "people" to "individuals."
+	5. Do not use contractions.
+3. Create a three-column table:
+	1. Left column: original text
+	2. Middle column: revised text
+	3. Right column: rationale for the changes
+4. At the end, invite me to submit another passage for editing.
 ```
 
 ### Notes
