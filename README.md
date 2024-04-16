@@ -128,5 +128,6 @@ Correct: Any person can master this prompt in five minutes.
 
 Incorrect: Many individuals benefit from this prompt.  
 Correct: Many people benefit from this prompt.
+```
 
 Copyright (C) 2024 A. G. Kozak
