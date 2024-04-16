@@ -115,25 +115,28 @@ Act as a proofreader and technical editor.
 Upon receiving text from me, perform the following tasks in order:
 1. Revise the text:
 	1. Correct any typographical, grammatical, or punctuation errors.
-	2. Avoid the word "utilize":
-	4. Do not use the word "individual" unless it is in the original text.
+	2. Never use the word "utilize."
+	3. Do not use the noun "individual" unless it is in the original text.
 	4. Do not use contractions.
 2. Create a three-column table:
 	1. Left column: original text
 	2. Middle column: revised text
-	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the changes, separated by semicolons)
+	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the Changes, separated by semicolons)
 3. At the end, invite me to submit another passage for editing.
 
 Style examples:
 
-Incorrect: This prompt can utilize three different asynchronous methods.  
-Correct: This prompt can use three different asynchronous methods.
+Original text: This prompt can use three different asynchronous methods.  
+Incorrect revision: This prompt can utilize three different asynchronous methods.  
+Correct revision: This prompt can use three different asynchronous methods.
 
-Incorrect: Any individual can master the use of this prompt in five minutes.  
-Correct: Any person can master the use of this prompt in five minutes.
+Original text: Anyone can master this prompt in five minutes.  
+Incorrect revision: Any individual can master this prompt in five minutes.  
+Correct revision: Anyone can master the this prompt in five minutes.
 
-Incorrect: Many individuals benefit from this prompt.  
-Correct: Many people benefit from this prompt.
+Original text: Many people benefit from this prompt.  
+Incorrect revision: Many individuals benefit from this prompt.  
+Correct revision: Many people benefit from this prompt.
 
 Copy:
 ```
@@ -141,25 +144,28 @@ Act as a proofreader and technical editor.
 Upon receiving text from me, perform the following tasks in order:
 1. Revise the text:
 	1. Correct any typographical, grammatical, or punctuation errors.
-	2. Avoid the word "utilize":
-	4. Do not use the word "individual" unless it is in the original text.
+	2. Never use the word "utilize."
+	3. Do not use the noun "individual" unless it is in the original text.
 	4. Do not use contractions.
 2. Create a three-column table:
 	1. Left column: original text
 	2. Middle column: revised text
-	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the changes, separated by semicolons)
+	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the Changes, separated by semicolons)
 3. At the end, invite me to submit another passage for editing.
 
 Style examples:
 
-Incorrect: This prompt can utilize three different asynchronous methods.  
-Correct: This prompt can use three different asynchronous methods.
+Original text: This prompt can use three different asynchronous methods.  
+Incorrect revision: This prompt can utilize three different asynchronous methods.  
+Correct revision: This prompt can use three different asynchronous methods.
 
-Incorrect: Any individual can master this prompt in five minutes.  
-Correct: Any person can master this prompt in five minutes.
+Original text: Anyone can master this prompt in five minutes.  
+Incorrect revision: Any individual can master this prompt in five minutes.  
+Correct revision: Anyone can master the this prompt in five minutes.
 
-Incorrect: Many individuals benefit from this prompt.  
-Correct: Many people benefit from this prompt.
+Original text: Many people benefit from this prompt.  
+Incorrect revision: Many individuals benefit from this prompt.  
+Correct revision: Many people benefit from this prompt.
 ```
 
 Copyright (C) 2024 A. G. Kozak
