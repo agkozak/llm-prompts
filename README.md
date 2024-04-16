@@ -87,7 +87,7 @@ Incorrect revision: Despite all their friends could say...in a sieve they went t
 Correct revision: In spite of all their friends could say...in a sieve they went to sea.
 
 Original: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."  
-Incorrect revision: I am going to tell you about "Am Not Misbehavin'" and "I Am Going to Wash My Hands of You."  
+Incorrect revision: I am going to tell you about "Am Not Misbehaving" and "I Am Going to Wash My Hands of You."  
 Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
 ```
 
