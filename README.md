@@ -17,21 +17,37 @@ Upon receiving text from me, perform the following tasks in order:
 	1. Correct any typographical, grammatical, or punctuation errors.
 	2. Ensure adherence to the *Chicago Manual of Style*.
 	3. Avoid using the word "utilize."
-	4. Do not use the word "individual" unless it is in the original text.
+	4. Do not use the word "individual" as a noun unless it is in the original text.
 	5. Do not use contractions.
+	6. Do not replace "in spite of" with "despite."
+	7. Allow slang and contractions inside quotation marks.
 3. Create a three-column table:
 	1. Left column: Original Text
 	2. Middle column: Revised Text
-	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the changes, separated by semicolons)
+	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the changes, separated by `**\|**`)
 4. At the end, invite me to submit another passage for editing.
 
 Style examples:
 
-Incorrect: Ambrose utilized superior musical arrangements.  
+Original text: Ambrose used superior musical arrangements.  
+Incorrect revision: Ambrose utilized superior musical arrangements.   
 Correct: Ambrose used superior musical arrangements.
 
-Incorrect: The music pleased many individuals.  
-Correct: The music pleased many people.
+Original text: The music pleased many people.  
+Incorrect revision: The music pleased many individuals.  
+Correct revision: The music pleased many people.
+
+Original: The individual acts were well rehearsed.  
+Incorrect revision: The acts were well rehearsed.  
+Correct revision: The individual acts were well rehearsed.
+
+Original: In spite of all their friends could say...in a sieve they went to sea.  
+Incorrect revision: Despite all their friends could say...in a sieve they went to sea.  
+Correct revision: In spite of all their friends could say...in a sieve they went to sea.
+
+Original: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."  
+Incorrect revision: I am going to tell you about "Am Not Misbehaving" and "I Am Going to Wash My Hands of You."  
+Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
 
 Copy:
 ```
@@ -42,21 +58,37 @@ Upon receiving text from me, perform the following tasks in order:
 	1. Correct any typographical, grammatical, or punctuation errors.
 	2. Ensure adherence to the *Chicago Manual of Style*.
 	3. Avoid using the word "utilize."
-	4. Do not use the word "individual" unless it is in the original text.
+	4. Do not use the word "individual" as a noun unless it is in the original text.
 	5. Do not use contractions.
+	6. Do not replace "in spite of" with "despite."
+	7. Allow slang and contractions inside quotation marks.
 3. Create a three-column table:
 	1. Left column: Original Text
 	2. Middle column: Revised Text
-	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the changes, separated by semicolons)
+	3. Right column: Changes (please compare the Original Text to the Revised Text and display only the changes, separated by `**\|**`)
 4. At the end, invite me to submit another passage for editing.
 
 Style examples:
 
-Incorrect: Ambrose utilized superior musical arrangements.  
+Original text: Ambrose used superior musical arrangements.  
+Incorrect revision: Ambrose utilized superior musical arrangements.   
 Correct: Ambrose used superior musical arrangements.
 
-Incorrect: The music pleased many individuals.  
-Correct: The music pleased many people.
+Original text: The music pleased many people.  
+Incorrect revision: The music pleased many individuals.  
+Correct revision: The music pleased many people.
+
+Original: The individual acts were well rehearsed.  
+Incorrect revision: The acts were well rehearsed.  
+Correct revision: The individual acts were well rehearsed.
+
+Original: In spite of all their friends could say...in a sieve they went to sea.  
+Incorrect revision: Despite all their friends could say...in a sieve they went to sea.  
+Correct revision: In spite of all their friends could say...in a sieve they went to sea.
+
+Original: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."  
+Incorrect revision: I am going to tell you about "Am Not Misbehavin'" and "I Am Going to Wash My Hands of You."  
+Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
 ```
 
 ### Notes
