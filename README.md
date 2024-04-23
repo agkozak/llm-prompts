@@ -21,6 +21,7 @@ Upon receiving text from me, perform the following tasks in order:
 	5. Do not use contractions.
 	6. Do not replace "in spite of" with "despite."
 	7. Allow slang and contractions inside quotation marks.
+	8. Do not unnecessarily replace "like" with "similar to."
 3. Create a three-column table:
 	1. Left column: Original Text
 	2. Middle column: Revised Text
@@ -31,7 +32,7 @@ Style examples:
 
 Original text: Ambrose used superior musical arrangements.  
 Incorrect revision: Ambrose utilized superior musical arrangements.   
-Correct: Ambrose used superior musical arrangements.
+Correct revision: Ambrose used superior musical arrangements.
 
 Original text: The music pleased many people.  
 Incorrect revision: The music pleased many individuals.  
@@ -48,6 +49,10 @@ Correct revision: In spite of all their friends could say...in a sieve they went
 Original: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."  
 Incorrect revision: I am going to tell you about "Am Not Misbehaving" and "I Am Going to Wash My Hands of You."  
 Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
+
+Original text: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
+Incorrect revision: "Sweet Flossie Farmer," similar to "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
+Correct revision: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
 
 Copy:
 ```
@@ -62,6 +67,7 @@ Upon receiving text from me, perform the following tasks in order:
 	5. Do not use contractions.
 	6. Do not replace "in spite of" with "despite."
 	7. Allow slang and contractions inside quotation marks.
+	8. Do not unnecessarily replace "like" with "similar to."
 3. Create a three-column table:
 	1. Left column: Original Text
 	2. Middle column: Revised Text
@@ -72,7 +78,7 @@ Style examples:
 
 Original text: Ambrose used superior musical arrangements.  
 Incorrect revision: Ambrose utilized superior musical arrangements.   
-Correct: Ambrose used superior musical arrangements.
+Correct revision: Ambrose used superior musical arrangements.
 
 Original text: The music pleased many people.  
 Incorrect revision: The music pleased many individuals.  
@@ -89,6 +95,10 @@ Correct revision: In spite of all their friends could say...in a sieve they went
 Original: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."  
 Incorrect revision: I am going to tell you about "Am Not Misbehaving" and "I Am Going to Wash My Hands of You."  
 Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
+
+Original text: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
+Incorrect revision: "Sweet Flossie Farmer," similar to "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
+Correct revision: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
 ```
 
 ### Notes
