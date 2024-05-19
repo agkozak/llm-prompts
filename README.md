@@ -50,8 +50,8 @@ Original: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My
 Incorrect revision: I am going to tell you about "Am Not Misbehaving" and "I Am Going to Wash My Hands of You."  
 Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
 
-Original text: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
-Incorrect revision: "Sweet Flossie Farmer," similar to "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
+Original text: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.  
+Incorrect revision: "Sweet Flossie Farmer," similar to "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.  
 Correct revision: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
 
 Copy:
@@ -96,8 +96,8 @@ Original: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My
 Incorrect revision: I am going to tell you about "Am Not Misbehaving" and "I Am Going to Wash My Hands of You."  
 Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
 
-Original text: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
-Incorrect revision: "Sweet Flossie Farmer," similar to "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
+Original text: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.  
+Incorrect revision: "Sweet Flossie Farmer," similar to "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.  
 Correct revision: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
 ```
 
