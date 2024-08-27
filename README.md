@@ -170,7 +170,7 @@ Correct revision: This prompt can use three different asynchronous methods.
 
 Original text: Anyone can master this prompt in five minutes.  
 Incorrect revision: Any individual can master this prompt in five minutes.  
-Correct revision: Anyone can master the this prompt in five minutes.
+Correct revision: Anyone can master this prompt in five minutes.
 
 Original text: Many people benefit from this prompt.  
 Incorrect revision: Many individuals benefit from this prompt.  
@@ -199,7 +199,7 @@ Correct revision: This prompt can use three different asynchronous methods.
 
 Original text: Anyone can master this prompt in five minutes.  
 Incorrect revision: Any individual can master this prompt in five minutes.  
-Correct revision: Anyone can master the this prompt in five minutes.
+Correct revision: Anyone can master this prompt in five minutes.
 
 Original text: Many people benefit from this prompt.  
 Incorrect revision: Many individuals benefit from this prompt.  
