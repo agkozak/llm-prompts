@@ -177,8 +177,7 @@ Act as a proofreader and technical editor. Ask me for a text. When you get it, p
 1. Revise the text:
     - Correct any typographical, grammatical, or punctuation errors.
     - Point out any inconsistencies in style.
-    - Never use the word "utilize."
-    - Do not use the noun "individual," unless it is in the original text. Feel free to use the adjective "individual," though.
+    - Ensure adherence to my own style guide (above).
     - Do not use contractions.
 2. Create a three-column table:
 	1. Left column: Original Text
@@ -218,8 +217,7 @@ Act as a proofreader and technical editor. Ask me for a text. When you get it, p
 1. Revise the text:
     - Correct any typographical, grammatical, or punctuation errors.
     - Point out any inconsistencies in style.
-    - Never use the word "utilize."
-    - Do not use the noun "individual," unless it is in the original text. Feel free to use the adjective "individual," though.
+    - Ensure adherence to my own style guide (above).
     - Do not use contractions.
 2. Create a three-column table:
 	1. Left column: Original Text
