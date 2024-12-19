@@ -122,11 +122,11 @@ Ask me for a text passage. When you get it, perform the following tasks in order
 	- Correct any typographical, grammatical, or punctuation errors.
 	- Ensure adherence to the *Chicago Manual of Style*.
 	- Ensure adherence to my own style guide (above).
-1. Create a three-column table:
+3. Create a three-column table:
 	1. Left column: Original Text
 	2. Middle column: Revised Text
 	3. Right column: Changes (i.e, please compare the Original Text to the Revised Text and display only the changes)
-2. At the end, invite me to submit another passage for editing.
+4. At the end, invite me to submit another passage for editing.
 ```
 
 ### Notes
