@@ -28,25 +28,25 @@ Example 2: The individual acts were well rehearsed.
 Incorrect revision: The acts were well rehearsed.  
 Correct revision: The individual acts were well rehearsed.
 
-#### Do not replace "in spite of" with "despite."
+#### Rule: Do not replace "in spite of" with "despite."
 
 Example: In spite of all their friends could say...in a sieve they went to sea.  
 Incorrect revision: Despite all their friends could say...in a sieve they went to sea.  
 Correct revision: In spite of all their friends could say...in a sieve they went to sea.
 
-#### Do not use contractions, but allow contractions and slang inside quotation marks.
+#### Rule: Do not use contractions, but allow contractions and slang inside quotation marks.
 
 Example: I'm going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."  
 Incorrect revision: I am going to tell you about "Am Not Misbehaving" and "I Am Going to Wash My Hands of You."  
 Correct revision: I am going to tell you about "Ain't Misbehavin'" and "I'm Gonna Wash My Hands of You."
 
-#### Do not unnecessarily replace "like" with "similar to."
+#### Rule: Do not unnecessarily replace "like" with "similar to."
 
 Example: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.  
 Incorrect revision: "Sweet Flossie Farmer," similar to "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.  
 Correct revision: "Sweet Flossie Farmer," like "Fare Thee Well, Annabelle" (which Elsie would record two months later), was composed by Hollywood songwriters Mort Dixon and Allie Wrubel.
 
-#### Do not expand abbreviations.
+#### Rule: Do not expand abbreviations.
 
 Example: Notable broadcasts were made by Benny Goodman and His Orchestra (v. Tommy Taylor) and Artie Shaw and His Orchestra (v. Bonnie Lake).  
 Incorrect revision: Notable broadcasts were made by Benny Goodman and His Orchestra (vocals by Tommy Taylor) and Artie Shaw and His Orchestra (vocals by Bonnie Lake).  
