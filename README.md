@@ -64,7 +64,7 @@ Ask me for a text passage. When you get it, perform the following tasks in order
 3. Create a three-column table:
 	1. Left column: Original Text
 	2. Middle column: Revised Text
-	3. Right column: Changes (i.e, please compare the Original Text to the Revised Text and display only the changes)
+	3. Right column: Changes (i.e., please compare the Original Text to the Revised Text and display only the changes)
 4. At the end, invite me to submit another passage for editing.
 
 Copy:
@@ -125,7 +125,7 @@ Ask me for a text passage. When you get it, perform the following tasks in order
 3. Create a three-column table:
 	1. Left column: Original Text
 	2. Middle column: Revised Text
-	3. Right column: Changes (i.e, please compare the Original Text to the Revised Text and display only the changes)
+	3. Right column: Changes (i.e., please compare the Original Text to the Revised Text and display only the changes)
 4. At the end, invite me to submit another passage for editing.
 ```
 
