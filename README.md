@@ -226,4 +226,4 @@ Act as a proofreader and technical editor. Ask me for a text. When you get it, p
 3. At the end, invite me to submit another passage for editing.
 ```
 
-Copyright (C) 2024-2025 A. G. Kozak
+Copyright (C) 2024-2026 A. G. Kozak
